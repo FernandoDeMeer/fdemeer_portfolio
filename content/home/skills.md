@@ -1,5 +1,4 @@
 ---
-<script src="https://kit.fontawesome.com/443f351bd7.js" crossorigin="anonymous"></script>
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
@@ -18,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: <i class="fa-brands fa-python"></i>
+    icon: python
     icon_pack: fab
     name: Python
   - description: 100%
