@@ -1,4 +1,5 @@
 ---
+<script src="https://kit.fontawesome.com/443f351bd7.js" crossorigin="anonymous"></script>
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
