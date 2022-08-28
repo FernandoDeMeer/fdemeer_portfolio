@@ -13,4 +13,4 @@ design:
     image: 41678746.jpg
     image_darken: 0.1
 ---
-My name is Fernando and I'm a mathematician from Madrid, Spain. I'm currently doing my PhD in Winthertur, Switzerland. My research interests include AI applications to financial settings, artificial data generation, RL and much more.
+My name is Fernando and I'm a mathematician from Madrid, Spain. I'm currently doing my PhD in Winthertur, Switzerland. My research interests include AI applications to financial settings such as generative models and RL financial simulations.
